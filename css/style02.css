@@ -1,0 +1,14 @@
+p{
+    background-color: yellow;
+}
+hr{
+    width: 80%;
+    height: 10px;
+    border: none;
+    background-color: red;
+}
+
+*{
+    text-decoration: underline;
+    background-color: blue;
+}
